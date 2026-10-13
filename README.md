@@ -20,6 +20,7 @@
 - `src/GraphicWindow` — окно Swing
 - `test-figures/` — примеры начальных фигур (`glider.txt` — планер, `t-shape.txt`)
 - `tests/Tester.java` — JUnit-тесты
+- `docs/`: отчёт о курсовом проекте (PDF).
 
 ## Запуск
 
